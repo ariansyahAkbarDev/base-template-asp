@@ -1,0 +1,6 @@
+@base_template_asp_HostAddress = http://localhost:5131
+
+GET {{base_template_asp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
